@@ -1,0 +1,2 @@
+# laughing-system
+all laughs
